@@ -1,0 +1,619 @@
+location,lat,lon,asl,variable,unit,level,timeResolution,aggregation,Value
+Andhra Pradesh_cropField#0,1.69154,8.10875,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Andhra Pradesh_cropField#1,3.38275,16.21654,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.91
+Andhra Pradesh_cropField#2,5.07396,24.32431,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.09
+Andhra Pradesh_cropField#3,6.76516,32.43210,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.75
+Andhra Pradesh_cropField#4,8.45409,40.53987,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.3
+Andhra Pradesh_cropField#5,10.14530,48.64766,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.65
+Andhra Pradesh_cropField#6,11.83651,56.75545,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Andhra Pradesh_cropField#7,13.52772,64.86322,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Andhra Pradesh_cropField#8,15.21893,72.97328,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Andhra Pradesh_cropField#9,16.91241,81.08105,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.53
+Andhra Pradesh_cropField#10,3.38047,16.21198,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.88
+Andhra Pradesh_cropField#11,6.76061,32.42526,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.74
+Andhra Pradesh_cropField#12,10.14075,48.63855,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.58
+Andhra Pradesh_cropField#13,13.52316,64.85184,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Andhra Pradesh_cropField#14,16.90331,81.06512,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.53
+Andhra Pradesh_cropField#15,2.41309,11.57994,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.95
+Andhra Pradesh_cropField#16,4.82357,23.16118,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.85
+Andhra Pradesh_cropField#17,7.23633,34.74243,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.15
+Andhra Pradesh_cropField#18,9.64909,46.32367,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.64
+Andhra Pradesh_cropField#19,12.05958,57.90492,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Andhra Pradesh_cropField#20,14.47234,69.48616,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Andhra Pradesh_cropField#21,16.88509,81.06512,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.52
+Andhra Pradesh_cropField#22,3.37592,16.21198,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.91
+Andhra Pradesh_cropField#23,6.75378,32.42299,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.74
+Andhra Pradesh_cropField#24,10.12937,48.63400,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.61
+Andhra Pradesh_cropField#25,13.50496,64.84729,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Andhra Pradesh_cropField#26,16.88282,81.05832,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.51
+Andhra Pradesh_cropField#27,3.37819,16.21425,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.91
+Andhra Pradesh_cropField#28,6.75606,32.42754,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.83
+Andhra Pradesh_cropField#29,10.13165,48.64084,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.66
+Andhra Pradesh_cropField#30,13.50951,64.85413,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Andhra Pradesh_cropField#31,16.88737,81.06741,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.58
+Andhra Pradesh_cropField#32,3.37819,16.21198,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.01
+Andhra Pradesh_cropField#33,6.75606,32.42299,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.74
+Andhra Pradesh_cropField#34,10.13165,48.63628,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.58
+Andhra Pradesh_cropField#35,13.50951,64.84729,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Andhra Pradesh_cropField#36,16.88737,81.05832,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.58
+Arunachal Pradesh_cropField#0,2.54511,8.66641,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#1,5.08761,17.33186,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.35
+Arunachal Pradesh_cropField#2,7.63239,25.99731,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.54
+Arunachal Pradesh_cropField#3,10.17717,34.66277,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.01
+Arunachal Pradesh_cropField#4,12.72195,43.32820,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#5,15.26672,51.99365,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#6,17.81150,60.65910,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#7,20.35629,69.32683,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#8,22.90106,77.99228,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.63
+Arunachal Pradesh_cropField#9,25.44584,86.65771,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.77
+Arunachal Pradesh_cropField#10,27.99062,95.32318,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,2.23
+Arunachal Pradesh_cropField#11,1.47303,5.01541,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#12,2.94799,10.02985,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.27
+Arunachal Pradesh_cropField#13,4.42069,15.04657,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.99
+Arunachal Pradesh_cropField#14,5.89566,20.06100,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.67
+Arunachal Pradesh_cropField#15,7.36835,25.07773,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.59
+Arunachal Pradesh_cropField#16,8.84332,30.09218,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.82
+Arunachal Pradesh_cropField#17,10.31602,35.10889,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.18
+Arunachal Pradesh_cropField#18,11.79099,40.12334,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.65
+Arunachal Pradesh_cropField#19,13.26368,45.14006,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.98
+Arunachal Pradesh_cropField#20,14.73865,50.15450,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#21,16.21134,55.17122,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#22,17.68404,60.18565,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#23,19.15900,65.20238,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#24,20.63170,70.21681,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#25,22.10667,75.23354,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.55
+Arunachal Pradesh_cropField#26,23.57936,80.24799,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.54
+Arunachal Pradesh_cropField#27,25.05434,85.26471,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.59
+Arunachal Pradesh_cropField#28,26.52703,90.27914,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.19
+Arunachal Pradesh_cropField#29,28.00200,95.29358,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.28
+Arunachal Pradesh_cropField#30,2.54283,8.65959,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#31,5.08761,17.31821,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.17
+Arunachal Pradesh_cropField#32,7.63012,25.97682,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.52
+Arunachal Pradesh_cropField#33,10.17489,34.63545,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.98
+Arunachal Pradesh_cropField#34,12.71739,43.29407,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#35,15.25990,51.95268,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#36,17.80467,60.61130,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#37,20.34718,69.27220,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#38,22.89195,77.93082,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.65
+Arunachal Pradesh_cropField#39,25.43446,86.58945,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.72
+Arunachal Pradesh_cropField#40,27.97923,95.24805,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.32
+Arunachal Pradesh_cropField#41,2.15361,7.32574,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#42,4.30688,14.65051,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,2.42
+Arunachal Pradesh_cropField#43,6.46015,21.97528,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.91
+Arunachal Pradesh_cropField#44,8.61343,29.30006,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.7
+Arunachal Pradesh_cropField#45,10.76897,36.62483,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.82
+Arunachal Pradesh_cropField#46,12.92225,43.95189,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,2.0
+Arunachal Pradesh_cropField#47,15.07552,51.27666,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#48,17.22880,58.60143,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#49,19.38207,65.92621,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#50,21.53535,73.25098,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.52
+Arunachal Pradesh_cropField#51,23.68862,80.57574,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.71
+Arunachal Pradesh_cropField#52,25.84417,87.90051,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.91
+Arunachal Pradesh_cropField#53,27.99744,95.22757,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.99
+Arunachal Pradesh_cropField#54,1.99427,6.80222,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#55,3.99049,13.60574,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.34
+Arunachal Pradesh_cropField#56,5.98671,20.40927,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.84
+Arunachal Pradesh_cropField#57,7.98065,27.21280,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.6
+Arunachal Pradesh_cropField#58,9.97686,34.01405,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.78
+Arunachal Pradesh_cropField#59,11.97308,40.81757,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.81
+Arunachal Pradesh_cropField#60,13.96702,47.62109,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,3.99
+Arunachal Pradesh_cropField#61,15.96324,54.42462,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#62,17.95946,61.22815,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#63,19.95567,68.02940,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Arunachal Pradesh_cropField#64,21.94962,74.83293,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.6
+Arunachal Pradesh_cropField#65,23.94583,81.63644,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.68
+Arunachal Pradesh_cropField#66,25.93977,88.43997,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.12
+Arunachal Pradesh_cropField#67,27.93599,95.24124,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.48
+Assam_cropField#0,0.84480,2.98050,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#1,1.69154,5.96002,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#2,2.53828,8.94183,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#3,3.38275,11.92136,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.75
+Assam_cropField#4,4.22949,14.90317,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.88
+Assam_cropField#5,5.07396,17.88271,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.87
+Assam_cropField#6,5.92070,20.86223,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.09
+Assam_cropField#7,6.76516,23.84404,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.75
+Assam_cropField#8,7.61190,26.82356,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.82
+Assam_cropField#9,8.45637,29.80537,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.52
+Assam_cropField#10,9.30312,32.78490,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.81
+Assam_cropField#11,10.14986,35.76671,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.53
+Assam_cropField#12,10.99432,38.74625,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.14
+Assam_cropField#13,11.84106,41.72804,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,3.39
+Assam_cropField#14,12.68552,44.70758,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#15,13.53227,47.68939,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#16,14.37673,50.66891,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#17,15.22348,53.64845,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#18,16.07022,56.63025,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#19,16.91469,59.60979,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#20,17.76143,62.59158,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#21,18.60590,65.57112,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#22,19.45264,68.55293,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#23,20.29938,71.53246,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#24,21.14384,74.51427,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.46
+Assam_cropField#25,21.99059,77.49380,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.9
+Assam_cropField#26,22.83505,80.47333,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.78
+Assam_cropField#27,23.68179,83.45514,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.05
+Assam_cropField#28,24.52853,86.43466,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.59
+Assam_cropField#29,25.37300,89.41647,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.41
+Assam_cropField#30,26.21974,92.39600,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.14
+Assam_cropField#31,1.14070,4.01616,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#32,2.27879,8.03136,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#33,3.41917,12.04655,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.7
+Assam_cropField#34,4.55954,16.06403,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.94
+Assam_cropField#35,5.69991,20.07922,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.8
+Assam_cropField#36,6.83800,24.09442,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.96
+Assam_cropField#37,7.97837,28.11189,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.39
+Assam_cropField#38,9.11874,32.12709,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.71
+Assam_cropField#39,10.25911,36.14229,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.56
+Assam_cropField#40,11.39720,40.15976,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.71
+Assam_cropField#41,12.53757,44.17496,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#42,13.67795,48.19014,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#43,14.81604,52.20761,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#44,15.95641,56.22281,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#45,17.09678,60.24028,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#46,18.23715,64.25548,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#47,19.37752,68.27068,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#48,20.51562,72.28815,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#49,21.65598,76.30334,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.5
+Assam_cropField#50,22.79636,80.31854,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.74
+Assam_cropField#51,23.93673,84.33603,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.83
+Assam_cropField#52,25.07710,88.35120,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.26
+Assam_cropField#53,26.21519,92.36639,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.81
+Assam_cropField#54,1.77121,6.19902,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#55,3.54208,12.39937,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.78
+Assam_cropField#56,5.31295,18.59970,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.93
+Assam_cropField#57,7.08383,24.80003,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.58
+Assam_cropField#58,8.85471,30.99809,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.73
+Assam_cropField#59,10.62558,37.19844,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.2
+Assam_cropField#60,12.39645,43.39877,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#61,14.16733,49.59911,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#62,15.94048,55.79716,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#63,17.71135,61.99750,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#64,19.47995,68.19557,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#65,21.25082,74.39590,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.45
+Assam_cropField#66,23.02170,80.59625,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.82
+Assam_cropField#67,24.79257,86.79431,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.71
+Assam_cropField#68,26.56345,92.99463,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.7
+Assam_cropField#69,2.06256,7.13681,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#70,4.12478,14.27495,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,2.54
+Assam_cropField#71,6.18929,21.41080,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.75
+Assam_cropField#72,8.25151,28.54892,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.35
+Assam_cropField#73,10.31374,35.68477,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.5
+Assam_cropField#74,12.37597,42.82289,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.05
+Assam_cropField#75,14.43819,49.96101,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#76,16.50042,57.09688,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#77,18.56264,64.23500,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#78,20.62487,71.37312,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#79,22.68710,78.51126,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.8
+Assam_cropField#80,24.75160,85.64938,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.79
+Assam_cropField#81,26.81383,92.78522,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.65
+Assam_cropField#82,1.06786,3.75439,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#83,2.13767,7.50783,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#84,3.20520,11.26126,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.86
+Assam_cropField#85,4.27501,15.01471,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.21
+Assam_cropField#86,5.34482,18.76814,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.76
+Assam_cropField#87,6.41235,22.52158,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.9
+Assam_cropField#88,7.48216,26.27501,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.58
+Assam_cropField#89,8.54969,30.02844,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.65
+Assam_cropField#90,9.61950,33.78188,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.96
+Assam_cropField#91,10.68703,37.53758,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.54
+Assam_cropField#92,11.75684,41.29102,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.64
+Assam_cropField#93,12.82438,45.04445,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#94,13.89418,48.79788,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#95,14.96399,52.55132,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#96,16.03152,56.30476,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#97,17.10133,60.06047,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#98,18.17114,63.81390,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#99,19.23867,67.56734,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#100,20.30848,71.32077,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Assam_cropField#101,21.37829,75.07420,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.52
+Assam_cropField#102,22.44582,78.82764,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.28
+Assam_cropField#103,23.51563,82.58109,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.85
+Assam_cropField#104,24.58316,86.33450,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.6
+Assam_cropField#105,25.65297,90.08795,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.93
+Assam_cropField#106,26.72050,93.84137,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,5.37
+Bihar_cropField#0,4.17258,14.19983,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,2.05
+Bihar_cropField#1,8.34256,28.40097,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.33
+Bihar_cropField#2,12.51482,42.60210,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,3.14
+Bihar_cropField#3,16.68707,56.80324,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Bihar_cropField#4,20.85704,71.00438,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.63
+Bihar_cropField#5,25.02930,85.20551,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.03
+Bihar_cropField#6,5.00567,17.04051,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.27
+Bihar_cropField#7,10.01328,34.07777,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.7
+Bihar_cropField#8,15.01862,51.11732,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Bihar_cropField#9,20.02624,68.15688,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Bihar_cropField#10,25.03157,85.19641,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.16
+Bihar_cropField#11,2.81370,9.49495,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Bihar_cropField#12,5.62479,18.99121,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.66
+Bihar_cropField#13,8.43816,28.48746,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.42
+Bihar_cropField#14,11.25153,37.98372,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.11
+Bihar_cropField#15,14.06262,47.47998,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,2.17
+Bihar_cropField#16,16.87599,56.97623,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Bihar_cropField#17,19.68936,66.47249,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Bihar_cropField#18,22.50045,75.96875,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.59
+Bihar_cropField#19,25.31382,85.46274,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Bihar_cropField#20,2.81370,9.50177,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Bihar_cropField#21,5.62707,19.00258,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.7
+Bihar_cropField#22,8.43816,28.50339,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.39
+Bihar_cropField#23,11.25153,38.00420,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.04
+Bihar_cropField#24,14.06490,47.50502,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.89
+Bihar_cropField#25,16.87827,57.00583,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Bihar_cropField#26,19.69164,66.50664,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Bihar_cropField#27,22.50500,76.00970,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.62
+Bihar_cropField#28,25.31609,85.51053,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.13
+Bihar_cropField#29,5.02388,17.11790,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.55
+Bihar_cropField#30,10.04515,34.23483,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,2.13
+Bihar_cropField#31,15.06870,51.35178,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Bihar_cropField#32,20.09225,68.46870,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Bihar_cropField#33,25.11579,85.58792,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.69
+Chhattisgarh_cropField#0,4.28412,16.38724,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.18
+Chhattisgarh_cropField#1,8.57018,32.77353,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.68
+Chhattisgarh_cropField#2,12.85397,49.16208,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Chhattisgarh_cropField#3,17.14003,65.54836,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Chhattisgarh_cropField#4,21.42381,81.93692,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.53
+Chhattisgarh_cropField#5,2.67713,10.24153,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.71
+Chhattisgarh_cropField#6,5.35392,20.47983,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.93
+Chhattisgarh_cropField#7,8.03072,30.72040,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.81
+Chhattisgarh_cropField#8,10.70752,40.96097,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.93
+Chhattisgarh_cropField#9,13.38432,51.20154,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Chhattisgarh_cropField#10,16.06111,61.44211,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Chhattisgarh_cropField#11,18.73563,71.68268,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Chhattisgarh_cropField#12,21.41243,81.92325,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.62
+Chhattisgarh_cropField#13,2.69078,10.22787,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.65
+Chhattisgarh_cropField#14,5.38124,20.45479,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.04
+Chhattisgarh_cropField#15,8.07169,30.68170,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Chhattisgarh_cropField#16,10.76215,40.90862,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.83
+Chhattisgarh_cropField#17,13.45488,51.13553,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Chhattisgarh_cropField#18,16.14533,61.36244,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Chhattisgarh_cropField#19,18.83578,71.59164,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Chhattisgarh_cropField#20,21.52625,81.81854,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.67
+Chhattisgarh_cropField#21,3.58988,13.63989,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.85
+Chhattisgarh_cropField#22,7.17943,27.28108,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.44
+Chhattisgarh_cropField#23,10.76897,40.92000,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.73
+Chhattisgarh_cropField#24,14.35853,54.56120,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Chhattisgarh_cropField#25,17.94807,68.20012,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Chhattisgarh_cropField#26,21.53762,81.84131,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.56
+Chhattisgarh_cropField#27,2.69989,10.25064,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.98
+Chhattisgarh_cropField#28,5.39717,20.49805,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.79
+Chhattisgarh_cropField#29,8.09673,30.74771,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.75
+Chhattisgarh_cropField#30,10.79630,40.99739,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.81
+Chhattisgarh_cropField#31,13.49585,51.24707,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Chhattisgarh_cropField#32,16.19541,61.49675,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Chhattisgarh_cropField#33,18.89269,71.74641,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Chhattisgarh_cropField#34,21.59225,81.99609,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.58
+Goa_cropField#0,3.08684,14.78708,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.04
+Goa_cropField#1,6.17108,29.57776,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.44
+Goa_cropField#2,9.25759,44.36388,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.65
+Goa_cropField#3,12.34410,59.15227,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Goa_cropField#4,15.43061,73.94066,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,2.22
+Goa_cropField#5,3.09139,14.77570,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.22
+Goa_cropField#6,6.18246,29.55272,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.5
+Goa_cropField#7,9.27352,44.32745,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.64
+Goa_cropField#8,12.36459,59.10446,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Goa_cropField#9,15.45565,73.88148,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,2.31
+Goa_cropField#10,2.55649,12.36067,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.78
+Goa_cropField#11,5.11265,24.72264,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.37
+Goa_cropField#12,7.66653,37.08463,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.88
+Goa_cropField#13,10.22269,49.44432,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,4.02
+Goa_cropField#14,12.77885,61.80630,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Goa_cropField#15,15.33501,74.16829,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.28
+Goa_cropField#16,3.03904,14.80984,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.15
+Goa_cropField#17,6.07775,29.61873,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.47
+Goa_cropField#18,9.11646,44.42761,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.63
+Goa_cropField#19,12.15517,59.23648,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Goa_cropField#20,15.19389,74.04536,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.03
+Goa_cropField#21,2.17181,10.57841,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.91
+Goa_cropField#22,4.34330,21.15585,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.48
+Goa_cropField#23,6.51706,31.73558,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.75
+Goa_cropField#24,8.68854,42.31303,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,0.95
+Goa_cropField#25,10.86002,52.89275,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Goa_cropField#26,13.03151,63.47020,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,
+Goa_cropField#27,15.20527,74.04764,,SOILGRIDS2 Total Nitrogen Content,g/kg,30-60 cm,static,none,1.06
+Andhra Pradesh_cropField#0,1.69167,8.10834,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Andhra Pradesh_cropField#1,3.38334,16.21460,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.6
+Andhra Pradesh_cropField#2,5.07292,24.32292,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.9
+Andhra Pradesh_cropField#3,6.76459,32.43126,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.4
+Andhra Pradesh_cropField#4,8.45417,40.53960,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.3
+Andhra Pradesh_cropField#5,10.14584,48.64793,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.2
+Andhra Pradesh_cropField#6,11.83750,56.75626,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Andhra Pradesh_cropField#7,13.52917,64.86459,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Andhra Pradesh_cropField#8,15.22084,72.97293,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Andhra Pradesh_cropField#9,16.91042,81.07919,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.4
+Andhra Pradesh_cropField#10,3.38125,16.21251,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.7
+Andhra Pradesh_cropField#11,6.76250,32.42502,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.4
+Andhra Pradesh_cropField#12,10.14167,48.63960,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.2
+Andhra Pradesh_cropField#13,13.52292,64.85210,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Andhra Pradesh_cropField#14,16.90417,81.06668,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.2
+Andhra Pradesh_cropField#15,2.41250,11.58125,,SOILGRIDS pH in H2O,pH,30 cm,static,none,4.6
+Andhra Pradesh_cropField#16,4.82500,23.16251,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.6
+Andhra Pradesh_cropField#17,7.23542,34.74168,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.2
+Andhra Pradesh_cropField#18,9.64792,46.32292,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.0
+Andhra Pradesh_cropField#19,12.06042,57.90417,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Andhra Pradesh_cropField#20,14.47292,69.48543,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Andhra Pradesh_cropField#21,16.88334,81.06668,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.2
+Andhra Pradesh_cropField#22,3.37709,16.21043,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.6
+Andhra Pradesh_cropField#23,6.75209,32.42293,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.3
+Andhra Pradesh_cropField#24,10.12917,48.63542,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.2
+Andhra Pradesh_cropField#25,13.50626,64.84584,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Andhra Pradesh_cropField#26,16.88126,81.05835,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.4
+Andhra Pradesh_cropField#27,3.37709,16.21251,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.7
+Andhra Pradesh_cropField#28,6.75417,32.42709,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.6
+Andhra Pradesh_cropField#29,10.13126,48.64168,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.3
+Andhra Pradesh_cropField#30,13.51042,64.85419,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Andhra Pradesh_cropField#31,16.88750,81.06876,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.4
+Andhra Pradesh_cropField#32,3.37709,16.21251,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.7
+Andhra Pradesh_cropField#33,6.75417,32.42293,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.4
+Andhra Pradesh_cropField#34,10.13334,48.63542,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.2
+Andhra Pradesh_cropField#35,13.51042,64.84793,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Andhra Pradesh_cropField#36,16.88750,81.05835,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.2
+Arunachal Pradesh_cropField#0,2.54375,8.66667,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#1,5.08959,17.33125,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.6
+Arunachal Pradesh_cropField#2,7.63334,25.99792,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.0
+Arunachal Pradesh_cropField#3,10.17709,34.66251,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.4
+Arunachal Pradesh_cropField#4,12.72292,43.32918,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#5,15.26667,51.99376,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#6,17.81251,60.66043,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#7,20.35625,69.32501,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#8,22.90000,77.99167,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.4
+Arunachal Pradesh_cropField#9,25.44584,86.65625,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.8
+Arunachal Pradesh_cropField#10,27.98959,95.32294,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.8
+Arunachal Pradesh_cropField#11,1.47292,5.01459,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#12,2.94792,10.03127,,SOILGRIDS pH in H2O,pH,30 cm,static,none,4.7
+Arunachal Pradesh_cropField#13,4.42084,15.04584,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.3
+Arunachal Pradesh_cropField#14,5.89584,20.06252,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.8
+Arunachal Pradesh_cropField#15,7.36875,25.07709,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.9
+Arunachal Pradesh_cropField#16,8.84375,30.09167,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.7
+Arunachal Pradesh_cropField#17,10.31667,35.10834,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.1
+Arunachal Pradesh_cropField#18,11.78959,40.12292,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.1
+Arunachal Pradesh_cropField#19,13.26459,45.13960,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.2
+Arunachal Pradesh_cropField#20,14.73750,50.15417,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#21,16.21042,55.17085,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#22,17.68542,60.18542,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#23,19.15834,65.20210,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#24,20.63334,70.21667,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#25,22.10625,75.23335,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.6
+Arunachal Pradesh_cropField#26,23.57917,80.24792,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.0
+Arunachal Pradesh_cropField#27,25.05417,85.26459,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.1
+Arunachal Pradesh_cropField#28,26.52708,90.27917,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.9
+Arunachal Pradesh_cropField#29,28.00209,95.29376,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.8
+Arunachal Pradesh_cropField#30,2.54375,8.65834,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#31,5.08750,17.31668,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.5
+Arunachal Pradesh_cropField#32,7.63125,25.97710,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.1
+Arunachal Pradesh_cropField#33,10.17500,34.63542,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.6
+Arunachal Pradesh_cropField#34,12.71667,43.29376,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#35,15.26042,51.95418,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#36,17.80417,60.61252,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#37,20.34792,69.27084,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#38,22.89167,77.92917,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.4
+Arunachal Pradesh_cropField#39,25.43542,86.58960,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.8
+Arunachal Pradesh_cropField#40,27.97917,95.24792,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.9
+Arunachal Pradesh_cropField#41,2.15417,7.32501,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#42,4.30625,14.65001,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.2
+Arunachal Pradesh_cropField#43,6.46042,21.97501,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.7
+Arunachal Pradesh_cropField#44,8.61459,29.30002,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.4
+Arunachal Pradesh_cropField#45,10.76875,36.62502,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.2
+Arunachal Pradesh_cropField#46,12.92084,43.95001,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.2
+Arunachal Pradesh_cropField#47,15.07500,51.27501,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#48,17.22917,58.60001,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#49,19.38334,65.92709,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#50,21.53542,73.25209,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.9
+Arunachal Pradesh_cropField#51,23.68959,80.57709,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.8
+Arunachal Pradesh_cropField#52,25.84376,87.90210,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.1
+Arunachal Pradesh_cropField#53,27.99583,95.22711,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.7
+Arunachal Pradesh_cropField#54,1.99584,6.80209,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#55,3.99167,13.60626,,SOILGRIDS pH in H2O,pH,30 cm,static,none,4.9
+Arunachal Pradesh_cropField#56,5.98542,20.40834,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.9
+Arunachal Pradesh_cropField#57,7.98125,27.21251,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.1
+Arunachal Pradesh_cropField#58,9.97709,34.01459,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.9
+Arunachal Pradesh_cropField#59,11.97292,40.81876,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.2
+Arunachal Pradesh_cropField#60,13.96875,47.62085,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.2
+Arunachal Pradesh_cropField#61,15.96458,54.42502,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#62,17.95834,61.22710,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#63,19.95417,68.02917,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Arunachal Pradesh_cropField#64,21.95000,74.83334,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.5
+Arunachal Pradesh_cropField#65,23.94584,81.63544,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.6
+Arunachal Pradesh_cropField#66,25.94167,88.43961,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.9
+Arunachal Pradesh_cropField#67,27.93542,95.24167,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.8
+Assam_cropField#0,0.84584,2.98126,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#1,1.69167,5.96043,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#2,2.53750,8.94168,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#3,3.38334,11.92084,,SOILGRIDS pH in H2O,pH,30 cm,static,none,4.9
+Assam_cropField#4,4.22917,14.90210,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.2
+Assam_cropField#5,5.07500,17.88335,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.6
+Assam_cropField#6,5.92084,20.86250,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.9
+Assam_cropField#7,6.76667,23.84377,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.7
+Assam_cropField#8,7.61250,26.82501,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.8
+Assam_cropField#9,8.45834,29.80418,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.6
+Assam_cropField#10,9.30417,32.78543,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.9
+Assam_cropField#11,10.14792,35.76668,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.7
+Assam_cropField#12,10.99375,38.74585,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.4
+Assam_cropField#13,11.83958,41.72710,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.2
+Assam_cropField#14,12.68542,44.70834,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#15,13.53125,47.68752,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#16,14.37709,50.66876,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#17,15.22292,53.65001,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#18,16.06876,56.62918,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#19,16.91459,59.61043,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#20,17.76042,62.59167,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#21,18.60625,65.57085,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#22,19.45209,68.55209,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#23,20.29792,71.53334,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#24,21.14375,74.51251,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.6
+Assam_cropField#25,21.98959,77.49377,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.5
+Assam_cropField#26,22.83542,80.47501,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.2
+Assam_cropField#27,23.68125,83.45419,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.1
+Assam_cropField#28,24.52708,86.43542,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.3
+Assam_cropField#29,25.37292,89.41669,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.1
+Assam_cropField#30,26.21876,92.39584,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.4
+Assam_cropField#31,1.13959,4.01668,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#32,2.27917,8.03127,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#33,3.41875,12.04793,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.1
+Assam_cropField#34,4.55834,16.06252,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.4
+Assam_cropField#35,5.70000,20.07918,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.8
+Assam_cropField#36,6.83959,24.09584,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.1
+Assam_cropField#37,7.97917,28.11043,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.0
+Assam_cropField#38,9.11875,32.12709,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.6
+Assam_cropField#39,10.25834,36.14377,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.6
+Assam_cropField#40,11.39792,40.15834,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.9
+Assam_cropField#41,12.53751,44.17502,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#42,13.67709,48.19168,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#43,14.81667,52.20627,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#44,15.95625,56.22293,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#45,17.09584,60.23959,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#46,18.23750,64.25626,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#47,19.37709,68.27084,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#48,20.51667,72.28751,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#49,21.65626,76.30417,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.6
+Assam_cropField#50,22.79584,80.31876,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.1
+Assam_cropField#51,23.93542,84.33542,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.4
+Assam_cropField#52,25.07709,88.35001,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.9
+Assam_cropField#53,26.21667,92.36667,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.4
+Assam_cropField#54,1.77084,6.20001,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#55,3.54167,12.40001,,SOILGRIDS pH in H2O,pH,30 cm,static,none,4.9
+Assam_cropField#56,5.31250,18.60001,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.9
+Assam_cropField#57,7.08334,24.80002,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.9
+Assam_cropField#58,8.85417,30.99792,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.8
+Assam_cropField#59,10.62500,37.19792,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.1
+Assam_cropField#60,12.39792,43.39793,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#61,14.16875,49.59793,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#62,15.93959,55.79793,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#63,17.71042,61.99792,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#64,19.48125,68.19585,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#65,21.25209,74.39584,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.8
+Assam_cropField#66,23.02084,80.59586,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.3
+Assam_cropField#67,24.79167,86.79584,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.0
+Assam_cropField#68,26.56251,92.99585,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.0
+Assam_cropField#69,2.06250,7.13751,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#70,4.12500,14.27501,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.2
+Assam_cropField#71,6.18750,21.41043,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.8
+Assam_cropField#72,8.25000,28.54793,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.0
+Assam_cropField#73,10.31250,35.68542,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.4
+Assam_cropField#74,12.37500,42.82292,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.2
+Assam_cropField#75,14.43750,49.96043,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#76,16.50000,57.09793,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#77,18.56251,64.23543,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#78,20.62501,71.37292,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#79,22.68751,78.51044,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.2
+Assam_cropField#80,24.75001,85.64792,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.1
+Assam_cropField#81,26.81459,92.78543,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.1
+Assam_cropField#82,1.06875,3.75418,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#83,2.13750,7.50626,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#84,3.20625,11.26042,,SOILGRIDS pH in H2O,pH,30 cm,static,none,4.8
+Assam_cropField#85,4.27500,15.01459,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.4
+Assam_cropField#86,5.34375,18.76668,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.6
+Assam_cropField#87,6.41250,22.52084,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.7
+Assam_cropField#88,7.48125,26.27501,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.0
+Assam_cropField#89,8.55000,30.02917,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.5
+Assam_cropField#90,9.61875,33.78334,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.7
+Assam_cropField#91,10.68750,37.53751,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.6
+Assam_cropField#92,11.75626,41.28960,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.4
+Assam_cropField#93,12.82500,45.04376,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#94,13.89375,48.79793,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#95,14.96250,52.55209,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#96,16.03125,56.30626,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#97,17.10209,60.06042,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#98,18.17084,63.81252,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#99,19.23959,67.56668,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#100,20.30833,71.32085,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Assam_cropField#101,21.37709,75.07294,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.6
+Assam_cropField#102,22.44584,78.82709,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.3
+Assam_cropField#103,23.51459,82.58127,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.0
+Assam_cropField#104,24.58334,86.33334,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.4
+Assam_cropField#105,25.65208,90.08752,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.7
+Assam_cropField#106,26.72084,93.84167,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.2
+Bihar_cropField#0,4.17084,14.20001,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.2
+Bihar_cropField#1,8.34375,28.40210,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.0
+Bihar_cropField#2,12.51459,42.60210,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.2
+Bihar_cropField#3,16.68542,56.80418,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Bihar_cropField#4,20.85834,71.00418,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.2
+Bihar_cropField#5,25.02917,85.20627,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.0
+Bihar_cropField#6,5.00625,17.03960,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.2
+Bihar_cropField#7,10.01250,34.07918,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.7
+Bihar_cropField#8,15.01875,51.11876,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Bihar_cropField#9,20.02500,68.15834,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Bihar_cropField#10,25.03126,85.19586,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.1
+Bihar_cropField#11,2.81250,9.49585,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Bihar_cropField#12,5.62500,18.99168,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.7
+Bihar_cropField#13,8.43750,28.48752,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.2
+Bihar_cropField#14,11.25000,37.98334,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.6
+Bihar_cropField#15,14.06250,47.47917,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.1
+Bihar_cropField#16,16.87500,56.97501,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Bihar_cropField#17,19.68959,66.47084,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Bihar_cropField#18,22.50209,75.96667,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.8
+Bihar_cropField#19,25.31459,85.46460,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Bihar_cropField#20,2.81250,9.50209,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Bihar_cropField#21,5.62709,19.00209,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.6
+Bihar_cropField#22,8.43959,28.50418,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.1
+Bihar_cropField#23,11.25209,38.00418,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.4
+Bihar_cropField#24,14.06459,47.50626,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.9
+Bihar_cropField#25,16.87709,57.00626,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Bihar_cropField#26,19.69167,66.50835,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Bihar_cropField#27,22.50417,76.00836,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.4
+Bihar_cropField#28,25.31667,85.51044,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.4
+Bihar_cropField#29,5.02292,17.11668,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.7
+Bihar_cropField#30,10.04584,34.23543,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.1
+Bihar_cropField#31,15.06876,51.35210,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Bihar_cropField#32,20.09167,68.46877,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Bihar_cropField#33,25.11459,85.58752,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.1
+Chhattisgarh_cropField#0,4.28542,16.38751,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.5
+Chhattisgarh_cropField#1,8.56876,32.77501,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.4
+Chhattisgarh_cropField#2,12.85417,49.16251,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Chhattisgarh_cropField#3,17.13959,65.54793,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Chhattisgarh_cropField#4,21.42500,81.93542,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.0
+Chhattisgarh_cropField#5,2.67709,10.23959,,SOILGRIDS pH in H2O,pH,30 cm,static,none,4.7
+Chhattisgarh_cropField#6,5.35417,20.48126,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.6
+Chhattisgarh_cropField#7,8.02917,30.72084,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.4
+Chhattisgarh_cropField#8,10.70625,40.96251,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.9
+Chhattisgarh_cropField#9,13.38334,51.20210,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Chhattisgarh_cropField#10,16.06042,61.44168,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Chhattisgarh_cropField#11,18.73750,71.68335,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Chhattisgarh_cropField#12,21.41251,81.92294,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.1
+Chhattisgarh_cropField#13,2.69167,10.22710,,SOILGRIDS pH in H2O,pH,30 cm,static,none,4.8
+Chhattisgarh_cropField#14,5.38125,20.45418,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.8
+Chhattisgarh_cropField#15,8.07292,30.68126,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Chhattisgarh_cropField#16,10.76250,40.90834,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.9
+Chhattisgarh_cropField#17,13.45417,51.13542,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Chhattisgarh_cropField#18,16.14584,61.36252,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Chhattisgarh_cropField#19,18.83542,71.58960,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Chhattisgarh_cropField#20,21.52708,81.81668,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.3
+Chhattisgarh_cropField#21,3.58959,13.63959,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.0
+Chhattisgarh_cropField#22,7.17917,27.28127,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.1
+Chhattisgarh_cropField#23,10.76875,40.92084,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.8
+Chhattisgarh_cropField#24,14.35834,54.56042,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Chhattisgarh_cropField#25,17.94792,68.20210,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Chhattisgarh_cropField#26,21.53751,81.84167,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.3
+Chhattisgarh_cropField#27,2.70000,10.25002,,SOILGRIDS pH in H2O,pH,30 cm,static,none,4.8
+Chhattisgarh_cropField#28,5.39792,20.49792,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.6
+Chhattisgarh_cropField#29,8.09792,30.74792,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.5
+Chhattisgarh_cropField#30,10.79584,40.99792,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.9
+Chhattisgarh_cropField#31,13.49583,51.24792,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Chhattisgarh_cropField#32,16.19376,61.49792,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Chhattisgarh_cropField#33,18.89375,71.74585,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Chhattisgarh_cropField#34,21.59376,81.99585,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.9
+Goa_cropField#0,3.08542,14.78751,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.2
+Goa_cropField#1,6.17292,29.57709,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.0
+Goa_cropField#2,9.25834,44.36459,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.2
+Goa_cropField#3,12.34375,59.15210,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Goa_cropField#4,15.43125,73.94168,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.9
+Goa_cropField#5,3.09167,14.77710,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.3
+Goa_cropField#6,6.18334,29.55209,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.1
+Goa_cropField#7,9.27292,44.32918,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.2
+Goa_cropField#8,12.36459,59.10417,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Goa_cropField#9,15.45625,73.88126,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.1
+Goa_cropField#10,2.55625,12.36043,,SOILGRIDS pH in H2O,pH,30 cm,static,none,4.8
+Goa_cropField#11,5.11250,24.72293,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.8
+Goa_cropField#12,7.66667,37.08334,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.0
+Goa_cropField#13,10.22292,49.44585,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.0
+Goa_cropField#14,12.77917,61.80626,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Goa_cropField#15,15.33542,74.16669,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.7
+Goa_cropField#16,3.03959,14.80835,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.2
+Goa_cropField#17,6.07709,29.61876,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.0
+Goa_cropField#18,9.11667,44.42709,,SOILGRIDS pH in H2O,pH,30 cm,static,none,8.3
+Goa_cropField#19,12.15625,59.23543,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Goa_cropField#20,15.19376,74.04376,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.2
+Goa_cropField#21,2.17292,10.57918,,SOILGRIDS pH in H2O,pH,30 cm,static,none,4.6
+Goa_cropField#22,4.34375,21.15627,,SOILGRIDS pH in H2O,pH,30 cm,static,none,5.8
+Goa_cropField#23,6.51667,31.73543,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.2
+Goa_cropField#24,8.68750,42.31252,,SOILGRIDS pH in H2O,pH,30 cm,static,none,7.6
+Goa_cropField#25,10.86042,52.89168,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Goa_cropField#26,13.03334,63.47084,,SOILGRIDS pH in H2O,pH,30 cm,static,none,
+Goa_cropField#27,15.20417,74.04793,,SOILGRIDS pH in H2O,pH,30 cm,static,none,6.3
