@@ -1,0 +1,213 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 99%;
+    --foreground: 240 10% 3.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+
+    --primary: 240 5.9% 10%;
+    --primary-foreground: 0 0% 98%;
+
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+
+    --muted: 240 4.8% 95.9%;
+    --muted-foreground: 240 3.8% 46.1%;
+
+    --accent: 240 4.8% 95.9%;
+    --accent-foreground: 240 5.9% 10%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 240 5.9% 90%;
+    --input: 240 5.9% 90%;
+    --ring: 240 5.9% 10%;
+
+    --radius: 0.75rem;
+
+    --success: 135 60% 40%;
+    --success-foreground: 135 60% 96%;
+
+    --warning: 45 93% 47%;
+    --warning-foreground: 45 93% 10%;
+
+    --danger: 0 84.2% 60.2%;
+    --danger-foreground: 0 84.2% 98%;
+
+    --info: 214 100% 50%;
+    --info-foreground: 214 100% 98%;
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 240 4.9% 83.9%;
+
+    --success: 148 60% 40%;
+    --success-foreground: 148 60% 96%; 
+
+    --warning: 38 92% 50%;
+    --warning-foreground: 38 92% 10%;
+    
+    --danger: 0 84.2% 60.2%;
+    --danger-foreground: 0 84.2% 98%;
+    
+    --info: 214 100% 50%;
+    --info-foreground: 214 100% 98%;
+  }
+
+  /* Color status classes tied to our new palette */
+  .status-new {
+    @apply bg-sun-orange-bright text-black;
+  }
+  .status-reviewing {
+    @apply bg-air-blue-mid text-white;
+  }
+  .status-approved {
+    @apply bg-plant-green-mid text-white;
+  }
+  .status-rejected {
+    @apply bg-energy-pink-dark text-white;
+  }
+  .status-pending {
+    @apply bg-sun-orange-mid text-white;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', sans-serif;
+  }
+
+  /* Glass card styles */
+  .glass-card {
+    @apply bg-white/70 backdrop-blur-sm border border-white/20 shadow-sm;
+  }
+
+  /* Animation classes */
+  .animate-in {
+    animation: fadeIn 0.5s ease-out forwards;
+  }
+
+  /* Progress bar styling */
+  .progress-low {
+    @apply bg-danger;
+  }
+  .progress-medium {
+    @apply bg-warning;
+  }
+  .progress-high {
+    @apply bg-success;
+  }
+
+  /* Card hover effects */
+  .hover-lift {
+    @apply transition-all duration-300;
+  }
+  .hover-lift:hover {
+    @apply translate-y-[-3px] shadow-md;
+  }
+
+  /* Card reveal animation sequence */
+  .card-reveal {
+    @apply opacity-0;
+    animation: cardReveal 0.5s ease-out forwards;
+  }
+
+  .card-reveal:nth-child(1) { animation-delay: 0.1s; }
+  .card-reveal:nth-child(2) { animation-delay: 0.2s; }
+  .card-reveal:nth-child(3) { animation-delay: 0.3s; }
+  .card-reveal:nth-child(4) { animation-delay: 0.4s; }
+  .card-reveal:nth-child(5) { animation-delay: 0.5s; }
+  .card-reveal:nth-child(6) { animation-delay: 0.6s; }
+  .card-reveal:nth-child(7) { animation-delay: 0.7s; }
+  .card-reveal:nth-child(8) { animation-delay: 0.8s; }
+
+  @keyframes cardReveal {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  /* Status pill styles */
+  .status-pill {
+    @apply text-xs px-2 py-0.5 rounded-full font-medium;
+  }
+  .status-pill-success {
+    @apply bg-plant-green-bright/20 text-plant-green-dark;
+  }
+  .status-pill-warning {
+    @apply bg-sun-orange-bright/20 text-sun-orange-dark;
+  }
+  .status-pill-danger {
+    @apply bg-energy-pink-bright/20 text-energy-pink-dark;
+  }
+  .status-pill-info {
+    @apply bg-air-blue-bright/20 text-air-blue-dark;
+  }
+  
+  /* Kanban styles */
+  .kanban-column {
+    @apply bg-slate-50 rounded-lg p-4 min-h-[500px] w-full;
+  }
+  
+  .kanban-card {
+    @apply bg-white rounded-md p-3 mb-3 shadow-sm border border-slate-200 
+           cursor-pointer transition-all hover:shadow-md;
+  }
+}
