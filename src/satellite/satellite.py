@@ -391,6 +391,6 @@ def main(field_id, date, metric='NDVI'):
 
 if __name__ == "__main__":
     # Example usage
-    field_id = "6"  # Replace with your field ID
+    field_id = "1"  # Replace with your field ID
     date = "2023-06-14"   # Replace with your desired date
     main(field_id, date)
