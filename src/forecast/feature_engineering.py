@@ -59,12 +59,26 @@ def lags_features(df: pd.DataFrame, dependent_vars: list, horizon: int):
             .transform(lambda x: x.rolling(window=horizon, min_periods=1).std())
     return df
 
+def encode_location(df: pd.DataFrame) -> pd.DataFrame:
+    # Sort unique locations
+    unique_locations = sorted(df['location'].unique())
+    
+    # Create a mapping from location to integer
+    location_mapping = {location: idx for idx, location in enumerate(unique_locations)}
+    
+    # Map the location column to integers
+    df['location'] = df['location'].map(location_mapping)
+    
+    return df
+
 
 def feature_engineering(data: pd.DataFrame, dependent_variable: list, independent_variables: list):
     # Manually apply ordinal encoding to the `drought_index` column
     drought_index_mapping = {'High risk': 1, 'No risk': 0}
     
     data['drought_index'] = data['drought_index'].map(drought_index_mapping)
+
+    data = encode_location(data)
 
     # Create a stationary version of Energia via differencing
     # data['Energia_stationary'] = data['Energia'].diff()
@@ -76,6 +90,7 @@ def feature_engineering(data: pd.DataFrame, dependent_variable: list, independen
     data = data.sort_values(['date', 'location'])
     
     data = data.groupby(['location', 'date']).apply(lambda group: group.ffill()).reset_index(drop=True)
+    data.dropna(inplace=True)
     return data
 
 
